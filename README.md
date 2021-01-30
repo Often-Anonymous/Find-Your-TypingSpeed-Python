@@ -2,6 +2,7 @@
 This is a python program that helps you find your typing speed. 
 
 Modules used----
+
          1. tkintertable 
          2. pytest-timeit
          
